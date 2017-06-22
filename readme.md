@@ -1,4 +1,4 @@
-# generator-react-kylin"
+# generator-react-kylin
 `generator-react-kylin` will help you create new React-Webpack projects.
 It includes: 
 - react@15.x

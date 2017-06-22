@@ -1,7 +1,7 @@
 {
   "name": "generator-react-kylin",
   "description": "react-kylin is a react-webpack starter kit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "app/index.js",
   "repository": {
     "type": "git",
