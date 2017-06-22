@@ -1,11 +1,11 @@
 {
   "name": "generator-react-kylin",
   "description": "react-kylin is a react-webpack starter kit",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ycjcl868/React-Webpack-boilerplate.git"
+    "url": "https://github.com/ycjcl868/generator-react-kylin.git"
   },
   "keywords": [
     "yeoman-generator"
@@ -14,9 +14,9 @@
     "generators"
   ],
   "bugs": {
-    "url": "https://github.com/ycjcl868/React-Webpack-boilerplate/issues"
+    "url": "https://github.com/ycjcl868/generator-react-kylin/issues"
   },
-  "homepage": "https://github.com/ycjcl868/React-Webpack-boilerplate",
+  "homepage": "https://github.com/ycjcl868/generator-react-kylin",
   "dependencies": {
     "chai": "^3.3.0",
     "chalk": "^1.1.1",

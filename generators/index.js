@@ -39,7 +39,7 @@ module.exports = yeoman.generators.Base.extend({
         {
             type: 'input',
             name: 'repo',
-            message: 'git repository:', default: "https://github.com/ycjcl868/React-Webpack-boilerplate"
+            message: 'git repository:', default: "https://github.com/ycjcl868/generator-react-kylin"
         },
         {
             type: 'input',
@@ -71,7 +71,7 @@ module.exports = yeoman.generators.Base.extend({
     },
     file: function() {
       this.copy('.babelrc','.babelrc')
-      this.copy('.gitignore','.gitignore')
+      this.copy('gitignore','.gitignore')
       this.copy('readme.md','readme.md')
       this.copy('tsconfig.json','tsconfig.json')
       this.copy('webpack.config.dev.js','webpack.config.dev.js')
