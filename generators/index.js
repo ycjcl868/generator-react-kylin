@@ -66,7 +66,7 @@ module.exports = yeoman.generators.Base.extend({
 
   writing: {
     config: function () {
-      this.template('package.json', 'package.json');
+      this.template('_package.json', 'package.json');
       this.template('index.html','index.html')
     },
     file: function() {

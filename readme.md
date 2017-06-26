@@ -43,6 +43,9 @@ $ npm run dev
 
 # Production Mode
 $ npm run build
+
+# ESLint Fix style
+$ npm run fix
 ```
 
 ![](https://ycjcl868.github.io/generator-react-kylin/img/3.jpg)

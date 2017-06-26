@@ -1,7 +1,7 @@
 {
-  "name": "templates",
+  "name": "<%= pkgName %>",
   "version": "1.0.0",
-  "description": "123",
+  "description": "<%= description %>",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --hot --open --colors --inline --config webpack.config.dev.js",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ycjcl868/React-Webpack-boilerplate.git"
+    "url": "<%= repo %>"
   },
-  "author": "",
-  "license": "MIT",
+  "author": "<%= author %>",
+  "license": "<%= license %>",
   "bugs": {
     "url": "https://github.com/ycjcl868/React-Webpack-boilerplate/issues"
   },
