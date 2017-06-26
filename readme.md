@@ -38,7 +38,7 @@ $ yo react-kylin
 ## Usage
 
 ```bash
-# Development Mode (hot-reload not refresh the page)
+# Development Mode (hot-reload not reload the whole page)
 $ npm run dev
 
 # Production Mode
